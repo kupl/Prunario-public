@@ -54,6 +54,8 @@ Download all files from [figshare](https://figshare.com/s/a6467432dff248a8a85d?f
 
 ### 1. Table 2, 3, 4 and Figure 5
 ```bash
+pip install -r requirements.txt
+pip install data/carla-0.9.15-cp38-cp38-linux_x86_64.whl
 mkdir dataset_path
 tar -xzvf dataset.tar.gz -C dataset_path
 export PYTHONPATH=.
@@ -62,6 +64,8 @@ python scripts/evaluate.py --path dataset_path
 
 ### 2. Results in the paragraph "Precision and Recall of Pruning" (Section 5.2)
 ```bash
+pip install -r requirements.txt
+pip install data/carla-0.9.15-cp38-cp38-linux_x86_64.whl
 mkdir pnr_results
 tar -xvzf pnr_results.tar.gz -C pnr_results
 export PYTHONPATH=.

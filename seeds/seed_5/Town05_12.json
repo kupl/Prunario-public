@@ -36,5 +36,6 @@
         "sun_azimuth_angle": 0,
         "sun_altitude_angle": 60
     },
-    "puddles": []
+    "puddles": [],
+    "hist_mops": {}
 }

@@ -1,0 +1,13 @@
+numpy==1.24.4
+networkx==3.1
+pandas==2.0.3
+websocket==0.2.1
+scipy==1.10.1
+scikit-fuzzy==0.5.0
+scikit-learn==1.3.2
+tqdm==4.67.1
+shapely==2.0.6
+rocker==0.2.17
+timeout-decorator==0.5.0
+psutil==5.9.3
+matplotlib==3.7.5

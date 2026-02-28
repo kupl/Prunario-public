@@ -1,0 +1,42 @@
+{
+    "num_mutation": 0,
+    "map": "Town04",
+    "mission": {
+        "start": {
+            "x": 11.767298698425293,
+            "y": -43.63445281982422,
+            "z": 0.2819424271583557,
+            "pitch": 0.0,
+            "yaw": -90.224853515625,
+            "roll": 0.0
+        },
+        "dest": {
+            "x": 160.34152221679688,
+            "y": -368.1404724121094,
+            "z": 0.2819424271583557,
+            "pitch": 0.0,
+            "yaw": 0.500910222530365,
+            "roll": 0.0
+        }
+    },
+    "npcs": {
+        "vehicles": [],
+        "pedestrians": []
+    },
+    "weather": {
+        "cloudiness": 0,
+        "precipitation": 0,
+        "precipitation_deposits": 0,
+        "wind_intensity": 0,
+        "fog_density": 0,
+        "wetness": 0,
+        "dust_storm": 0
+    },
+    "time": {
+        "sun_azimuth_angle": 0,
+        "sun_altitude_angle": 60
+    },
+    "puddles": [],
+    "hist_mops": {},
+    "wps_itr": {}
+}

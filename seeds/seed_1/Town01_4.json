@@ -1,0 +1,40 @@
+{
+    "map": "Town01",
+    "mission": {
+        "start": {
+            "x": 212.7645721435547,
+            "y": -2.286572217941284,
+            "z": 0.29999998211860657,
+            "roll": 0.0,
+            "pitch": 0.0,
+            "yaw": -179.99993896484375
+        },
+        "dest": {
+            "x": 88.6199722290039,
+            "y": 263.1473693847656,
+            "z": 0.29999998211860657,
+            "roll": 0.0,
+            "pitch": 0.0,
+            "yaw": 90.00004577636719
+        }
+    },
+    "npcs": {
+        "vehicles": [],
+        "pedestrians": []
+    },
+    "weather": {
+        "cloudiness": 0,
+        "precipitation": 0,
+        "precipitation_deposits": 0,
+        "wind_intensity": 0,
+        "fog_density": 0,
+        "wetness": 0,
+        "dust_storm": 0
+    },
+    "time": {
+        "sun_azimuth_angle": 0,
+        "sun_altitude_angle": 60
+    },
+    "puddles": [],
+    "hist_mops": {}
+}
